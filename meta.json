@@ -9,5 +9,5 @@
       "model": "ethanlook:service:date"
     }
   ],
-  "entrypoint": "./bin/date-service"
+  "entrypoint": "./date-service.sh"
 }
