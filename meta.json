@@ -1,0 +1,13 @@
+{
+  "name": "ethanlook:date-service",
+  "visibility": "public",
+  "url": "https://github.com/ethanlook/date-service",
+  "description": "It prints the date and time every second.",
+  "models": [
+    {
+      "api": "ethanlook:service:date",
+      "model": "ethanlook:service:date"
+    }
+  ],
+  "entrypoint": "./bin/date-service"
+}
